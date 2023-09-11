@@ -1,5 +1,62 @@
 ---
 
+- title: MOST
+  year: 2024
+  id: most24
+  link: https://ieeemobility.org/MOST2024/
+  deadline: '2023-12-08 23:59:59'
+  timezone: UTC-6
+  place: Dallas TX, USA
+  date: May 15-17, 2024
+  start: 2024-05-15
+  end: 2024-05-17
+  hindex: -1
+  sub: TR
+  note: Mandatory title and abstract deadline on Dec 8, 2023. More info <a href='https://ieeemobility.org/MOST2024/'>here</a>.
+
+
+- title: DSN
+  year: 2024
+  id: dsn24
+  link: https://dsn2024uq.github.io/
+  deadline: '2023-12-06 23:59:59'
+  timezone: UTC+10
+  place: Brisbane, Australia
+  date: June 24-27, 2024
+  start: 2024-06-24
+  end: 2024-06-27
+  hindex: -1
+  sub: RO
+  note: Mandatory abstract deadline on Nov 29, 2023. More info <a href='https://dsn2024uq.github.io/dates.html'>here</a>.
+
+- title: IEEM
+  year: 2023
+  id: ieem23
+  link: https://www.ieem.org/
+  deadline: '2023-09-15 23:59:59'
+  timezone: UTC+7
+  place: Marina Bay Sands, Singapore
+  date: December 18-21, 2023
+  start: 2023-12-18
+  end: 2023-12-21
+  hindex: -1
+  sub: MS
+
+
+- title: MSIE
+  year: 2024
+  id: msie24
+  link: http://www.msie.org/
+  deadline: '2023-12-30 23:59:59'
+  timezone: UTC+7
+  place: Bangkok, Thailand
+  date: April 24-26, 2024
+  start: 2024-04-24
+  end: 2024-04-26
+  hindex: -1
+  sub: MS
+
+
 - title: WSC
   year: 2023
   id: wsc23
@@ -22,11 +79,41 @@
   timezone: UTC-12
   place: Phoenix AZ, USA
   date: October 15-18, 2023
-  start: 2024-10-15
-  end: 2024-10-18
+  start: 2023-10-15
+  end: 2023-10-18
   hindex: -1
   sub: MS
   note: Mandatory abstract deadline for oral abstract on May 16, 2023 and for poster session on June 26, 2023. More info <a href='https://meetings.informs.org/wordpress/phoenix2023/submit/'>here</a>.
+
+- title: ICLR
+  year: 2024
+  id: iclr24
+  link: https://iclr.cc/Conferences/2024
+  deadline: '2023-09-28 23:59:59'
+  abstract_deadline: '2023-09-21 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: May 07-11, 2024
+  start: 2024-05-07
+  end: 2024-05-11
+  hindex: 286
+  sub: ML
+  note: Mandatory abstract deadline on September 21, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
+  
+- title: CVPR
+  year: 2024
+  id: cvpr24
+  link: https://cvpr.thecvf.com/Conferences/2024
+  deadline: '2023-11-10 23:59:59'
+  abstract_deadline: '2023-11-03 23:59:59'
+  timezone: America/Los_Angeles
+  place: Seattle, Washington, USA
+  date: June 17-21, 2024
+  start: 2024-06-17
+  end: 2024-06-21
+  hindex: 389
+  sub: ML
+
 
 - title: IEEE IV
   year: 2024
