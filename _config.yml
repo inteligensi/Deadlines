@@ -7,7 +7,7 @@ baseurl: ""
 
 #twitter_hashtag: machinelearning
 github_username: inteligensi
-github_repo: TanggalKonferensi
+github_repo: Deadlines
 
 markdown: kramdown
 ga_id:
