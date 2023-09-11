@@ -1,5 +1,90 @@
 ---
 
+- title: ICCAI
+  year: 2024
+  id: iccai24
+  link: http://www.iccai.net/
+  deadline: '2023-12-05 23:59:59'
+  timezone: UTC+7
+  place: Bali, Indonesia
+  date: April 26-29, 2024
+  start: 2024-04-26
+  end: 2024-04-29
+  hindex: -1
+  sub: ML
+
+
+- title: IMIP
+  year: 2024
+  id: imip24
+  link: http://www.imip.org/sub.html
+  deadline: '2023-12-05 23:59:59'
+  timezone: UTC+7
+  place: Bali, Indonesia
+  date: April 26-29, 2024
+  start: 2024-04-26
+  end: 2024-04-29
+  hindex: -1
+  sub: DS
+
+
+- title: HSCC
+  year: 2024
+  id: hscc24
+  link: https://hscc.acm.org/2024/
+  deadline: '2024-10-31 23:59:59'
+  timezone: UTC+12
+  place: Hong Kong
+  date: May 14-16, 2024
+  start: 2024-05-14
+  end: 2024-05-16
+  hindex: -1
+  sub: RO
+
+
+- title: HSCC
+  year: 2024
+  id: hscc24
+  link: https://hscc.acm.org/2024/
+  deadline: '2024-10-31 23:59:59'
+  timezone: UTC+12
+  place: Hong Kong
+  date: May 14-16, 2024
+  start: 2024-05-14
+  end: 2024-05-16
+  hindex: -1
+  sub: RO
+
+
+
+- title: HSCC
+  year: 2024
+  id: hscc24
+  link: https://hscc.acm.org/2024/
+  deadline: '2024-10-31 23:59:59'
+  timezone: UTC+12
+  place: Hong Kong
+  date: May 14-16, 2024
+  start: 2024-05-14
+  end: 2024-05-16
+  hindex: -1
+  sub: RO
+
+
+- title: SEAI
+  year: 2024
+  id: seai24
+  link: http://www.seai.org/
+  deadline: '2024-01-25 23:59:59'
+  timezone: UTC+7
+  place: Xiamen, China
+  date: June 21-23, 2024
+  start: 2024-06-21
+  end: 2024-06-23
+  hindex: -1
+  sub: ML
+
+
 - title: MOST
   year: 2024
   id: most24
@@ -33,7 +118,7 @@
   year: 2023
   id: ieem23
   link: https://www.ieem.org/
-  deadline: '2023-09-15 23:59:59'
+  deadline: '2023-06-15 23:59:59'
   timezone: UTC+7
   place: Marina Bay Sands, Singapore
   date: December 18-21, 2023
