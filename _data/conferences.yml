@@ -32,21 +32,7 @@
   year: 2024
   id: hscc24
   link: https://hscc.acm.org/2024/
-  deadline: '2024-10-31 23:59:59'
-  timezone: UTC+12
-  place: Hong Kong
-  date: May 14-16, 2024
-  start: 2024-05-14
-  end: 2024-05-16
-  hindex: -1
-  sub: RO
-
-
-- title: HSCC
-  year: 2024
-  id: hscc24
-  link: https://hscc.acm.org/2024/
-  deadline: '2024-10-31 23:59:59'
+  deadline: '2023-10-31 23:59:59'
   timezone: UTC+12
   place: Hong Kong
   date: May 14-16, 2024
