@@ -13,6 +13,21 @@
   sub: ML
   note: Soliciting both regular papers and work-in-progress papers. More info <a href='http://icprai2024.org/'>here</a>.
 
+
+- title: IDETC
+  year: 2024
+  id: idetc24
+  link: https://event.asme.org/IDETC-CIE
+  deadline: '2024-03-12 23:59:59'
+  timezone: America/Los_Angeles
+  place: Washington DC, USA
+  date: August 25-28, 2024
+  start: 2024-08-25
+  end: 2024-08-28
+  hindex: -1
+  sub: ME
+  
+
 - title: ICCAI
   year: 2024
   id: iccai24
