@@ -1,4 +1,19 @@
 ---
+- title: IEEE ITSC
+  year: 2024
+  id: itsc24
+  full_name: International Conference on Intelligent Transportation Systems
+  link: https://ieee-itsc.org/2024/
+  deadline: '2024-07-31 23:59:59'
+  timezone: UTC+9
+  place: Edmonton, Canada
+  date: Sep 24-27, 2024
+  start: 2024-09-24
+  end: 2024-09-47
+  sub: TR, ML
+  note: Soliciting both regular papers and work-in-progress papers. More info <a href='http://icprai2024.org/'>here</a>.
+
+
 - title: ICPRAI
   year: 2024
   id: icprai24
